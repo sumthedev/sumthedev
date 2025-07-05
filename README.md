@@ -11,7 +11,7 @@ I love working with **React**, **Next.js**, **Node.js**, and **PostgreSQL**.
 - 💼 Ex-Frontend Engineer | Looking for new opportunities
 - 🌱 Currently learning: **System Design**, **LeetCode DSA**, and **AI interview prep**
 - 🔭 Actively contributing to open source and side projects
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sumbl-ahashmi-891997249/) | [Email](mailto:hashmisumbal12@gmail.com)
 
 ---
 
