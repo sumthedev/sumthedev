@@ -27,13 +27,6 @@ I love working with **React**, **Next.js**, **Node.js**, and **PostgreSQL**.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)  
 
----
-
-## 📊 GitHub Stats
-
-![sumthedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumthedev&show_icons=true&theme=tokyonight)
-
----
 
 ## 📌 Featured Projects
 
