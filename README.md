@@ -54,8 +54,8 @@ I love working with **React**, **Next.js**, **Node.js**, and **PostgreSQL**.
 
 ## 📌 Featured Projects
 
-- [Notion Clone](https://github.com/sumthedev/workino-frontend) – A productivity SaaS app built with Next.js & Node.js
-- [Social Media App](https://github.com/sumthedev/ChitChat) – Manage tasks & deadlines with a clean UI
+- [Notion Clone](https://github.com/sumthedev/workino-frontend) – Manage tasks & deadlines with a clean UI
+- [Social Media App](https://github.com/sumthedev/ChitChat) – A productivity SaaS app built with Next.js & Node.js
 
 ---
 
