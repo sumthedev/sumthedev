@@ -8,7 +8,7 @@ I love working with **React**, **Next.js**, **Node.js**, and **PostgreSQL**.
 ## 🚀 About Me
 
 - 🎓 Final-year student, passionate about real-world development
-- 💼 Ex-Frontend Engineer | Looking for new opportunities
+- 💼 Full Stack Engineer
 - 🌱 Currently learning: **System Design**, **LeetCode DSA**, and **AI interview prep**
 - 🔭 Actively contributing to open source and side projects
 - 💡 Familiar with **Firebase**, **Supabase**, **C++**, **C#**, **Express**, **TypeScript**, and **Git version control**
