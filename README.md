@@ -7,7 +7,6 @@
   my understanding of software engineering, system design, and algorithms.
 </p>
 
-<hr>
 
 <h2>About Me</h2>
 
@@ -24,8 +23,6 @@
 
 <h2>Technologies</h2> 
 <p> I primarily work with JavaScript, TypeScript, Python, C++, and C# to build modern web applications and backend services. My frontend experience includes React.js, Next.js, Tailwind CSS, and shadcn/ui for creating responsive and user-friendly interfaces. </p> <p> On the backend, I work with Node.js, Express.js, and FastAPI to develop scalable APIs and server-side applications. I have experience designing and managing databases using PostgreSQL, MongoDB, SQL, Prisma ORM, Firebase, and Supabase. </p> <p> I also use Docker for containerization, Git and GitHub for version control, and modern development workflows for building, testing, and deploying production-ready applications. </p>
-
-<hr>
 
 <h2>Featured Projects</h2>
 
@@ -51,8 +48,6 @@
   </li>
 </ul>
 
-<hr>
-
 <h2>Current Focus</h2>
 
 <ul>
@@ -61,8 +56,6 @@
   <li>Building production-ready full-stack applications</li>
   <li>Preparing for software engineering interviews</li>
 </ul>
-
-<hr>
 
 <h2>Fun Facts</h2>
 
@@ -73,8 +66,6 @@
   <li>Continuous learning is one of my favorite parts of software engineering</li>
   <li>My long-term goal is to become a world-class software engineer</li>
 </ul>
-
-<hr>
 
 <h2>Contact</h2>
 
