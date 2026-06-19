@@ -106,12 +106,6 @@
     </a>
   </li>
   <li>
-    🌐 Portfolio:
-    <a href="https://sumbal-portfolio.vercel.app/" target="_blank">
-      sumbal-portfolio.vercel.app
-    </a>
-  </li>
-  <li>
     📧 Email:
     <a href="mailto:hashmisumbal12@gmail.com">
       hashmisumbal12@gmail.com
