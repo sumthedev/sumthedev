@@ -54,7 +54,6 @@
   <li>Practicing Data Structures and Algorithms daily</li>
   <li>Learning scalable system design concepts</li>
   <li>Building production-ready full-stack applications</li>
-  <li>Preparing for software engineering interviews</li>
 </ul>
 
 <h2>Fun Facts</h2>
