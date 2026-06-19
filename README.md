@@ -3,11 +3,7 @@
 
 <p>
   Full Stack Web Developer passionate about building scalable web applications,
-  solving complex problems, and continuously learning new technologies.
-</p>
-
-<p>
-  I enjoy turning ideas into real products, learning new concepts, and improving
+  solving complex problems, and continuously learning new technologies.  I enjoy turning ideas into real products, learning new concepts, and improving
   my understanding of software engineering, system design, and algorithms.
 </p>
 
@@ -26,39 +22,8 @@
 
 <hr>
 
-<h2>Technologies</h2>
-
-<h3>Frontend</h3>
-<ul>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>Tailwind CSS</li>
-  <li>shadcn/ui</li>
-</ul>
-
-<h3>Backend</h3>
-<ul>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>PostgreSQL</li>
-  <li>Firebase</li>
-  <li>Supabase</li>
-</ul>
-
-<h3>Languages</h3>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>C++</li>
-  <li>C#</li>
-</ul>
-
-<h3>Tools</h3>
-<ul>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>VS Code</li>
-</ul>
+<h2>Technologies</h2> 
+<p> I primarily work with JavaScript, TypeScript, Python, C++, and C# to build modern web applications and backend services. My frontend experience includes React.js, Next.js, Tailwind CSS, and shadcn/ui for creating responsive and user-friendly interfaces. </p> <p> On the backend, I work with Node.js, Express.js, and FastAPI to develop scalable APIs and server-side applications. I have experience designing and managing databases using PostgreSQL, MongoDB, SQL, Prisma ORM, Firebase, and Supabase. </p> <p> I also use Docker for containerization, Git and GitHub for version control, and modern development workflows for building, testing, and deploying production-ready applications. </p>
 
 <hr>
 
